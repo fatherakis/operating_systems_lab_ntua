@@ -1,5 +1,8 @@
 ## Operating Systems LAB - NTUA Class 2021-2022
 
+> [!NOTE]
+> GitHub shows Batchfiles in this repo, it detects .cmd files from the generated VirtIO Device Modules, there aren't any usable batchfiles here.
+
 This course has 3 big projects - assignments to be completed thorough the semester. All the work was done with teams of 2. 
 
 ### <div align="center"> 1st - Riddle </div>
