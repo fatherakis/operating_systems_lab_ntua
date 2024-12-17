@@ -1,4 +1,4 @@
-## Operating Systems LAB - NTUA Class 2021-2022
+## Operating Systems LAB - ECE NTUA Course 2021-2022
 
 > [!NOTE]
 > GitHub shows Batchfiles in this repo, it detects .cmd files from the generated VirtIO Device Modules, there aren't any usable batchfiles here.
